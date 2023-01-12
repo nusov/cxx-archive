@@ -1,3 +1,2 @@
-# qt-crc32
-CRC32 support for Qt
-
+# cxx-archive
+Code in C/C++ no longer maintained
